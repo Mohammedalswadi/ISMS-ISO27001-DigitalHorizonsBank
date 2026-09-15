@@ -91,3 +91,4 @@ The project follows the **Plan–Do–Check–Act (PDCA)** cycle mandated by ISO
 ## 📄 License
 
 This project is released for educational purposes. Feel free to reference the structure and methodology for learning, with attribution to the team above.
+cd "C:\Program Files (x86)\VMware\VMware Workstation"
