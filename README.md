@@ -76,13 +76,14 @@ The project follows the **Plan–Do–Check–Act (PDCA)** cycle mandated by ISO
 
 | Name | Role |
 |---|---|
+| Eng. Aiman Alansi | Engineering |
 | Mohammed Abdullah Al-Sawadi | Team Member |
 | Osama Al-Samet | Team Member |
 | Mohammed Nabil | Team Member |
 | Hammam Assaad | Team Member |
 | Mohammed Al-Dawoos | Team Member |
 
-**Supervised by:** Dr. Ayman Al-Ansi
+**Supervised by:** Eng. Aiman Alansi
 
 ## ⚠️ Disclaimer
 
