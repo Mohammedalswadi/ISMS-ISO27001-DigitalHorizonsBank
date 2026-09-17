@@ -85,7 +85,7 @@ The project follows the **Plan–Do–Check–Act (PDCA)** cycle mandated by ISO
 
 **Supervised by:** Eng. Aiman Alansi
 
-## ⚠️ Disclaimer
+ ⚠️ Disclaimer
 
 *Digital Horizons Bank* is a fictional organization created for academic purposes. All data, incidents, and figures referenced in this repository are hypothetical and used solely for educational demonstration of ISMS implementation under ISO/IEC 27001:2022.
 
